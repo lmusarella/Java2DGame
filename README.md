@@ -1,4 +1,4 @@
-# Java2DGame
+# Vulcano: Java 2D Game
 
 Vulcano it's a small game written in java, where a volcano erupts more and more strongly with the passing of the levels. Your goal is to extinguish the eruption by throwing water bullets.
 
